@@ -5,7 +5,7 @@ Responsive Web App
 ![image](https://github.com/user-attachments/assets/dfc40318-648b-4e04-ac4e-fd98003cb6a5)
 Signin/Signup Authentication using Firebase
 Create Account and Post 
-
+Video posting from your own YouTube/Vimeo Content
 ![Screenshot 2025-03-02 010525](https://github.com/user-attachments/assets/c43cf930-3403-4d61-89b1-263ed38e1baf)
 
 ![Screenshot 2025-03-02 010535](https://github.com/user-attachments/assets/14ce8c4a-cb6f-49d4-90d0-eb7e8a821361)
